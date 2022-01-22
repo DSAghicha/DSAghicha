@@ -25,4 +25,5 @@
 
 #### Profile Overview
 
-[![Website](https://github-readme-stats.vercel.app/api?username=DSAghicha)](https://github.com/DSAghicha)
+<!-- [![Website](https://github-readme-stats.vercel.app/api?username=DSAghicha)](https://github.com/DSAghicha) -->
+[![Website](https://github-readme-stats.vercel.app/api/top-langs/?username=dsaghicha)](https://github.com/dsaghicha)
